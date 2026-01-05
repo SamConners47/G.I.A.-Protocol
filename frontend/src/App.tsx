@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-const API_BASE = "https://YOUR_RAILWAY_URL_HERE"; // Update after Railway deploy
+const API_BASE = "gia-protocol-production-4b69.up.railway.app"; // Update after Railway deploy
 
 interface Event {
   id: number;
